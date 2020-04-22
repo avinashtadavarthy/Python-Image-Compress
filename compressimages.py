@@ -47,4 +47,4 @@ for filename in os.listdir("./"):
 
 end = timeit.default_timer()
 
-print("Execution time: ", end - start)
+print("Execution time: ", end - start, "seconds")
