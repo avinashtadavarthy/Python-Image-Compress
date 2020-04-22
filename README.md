@@ -26,6 +26,14 @@ It should return an output mentioning the version number of openCV being used on
 python3 <path to compressimages.py>
 ```
 
-### Note
+## Example
+- To test the program, once the repository has been cloned, execute the following from the ```/data``` directory
+```
+python3 ../compressimages.py
+```
+- This would iterate through the files in the ```/data``` folder and generate the compressed images in a subfolder called ```/compressed```.
+- The file names of all compressed images would be in the format ```<original_file_name>-min.jpg```.
+
+## Note
 It would preferable to keep only the image files in the chosen directory and nothing else.
 This project is still under development.
