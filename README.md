@@ -36,4 +36,7 @@ python3 ../compressimages.py
 
 ## Note
 It would be preferable to keep only JPG image files in the chosen directory and nothing else.
-This project is still under development.
+
+Best when used to compress images for web development.
+
+This project is still under development and will get much smarter over time. This was only an attempt to make a utility to solve a personal problem faced with image compression and resizing.
