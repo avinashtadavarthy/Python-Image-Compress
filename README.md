@@ -35,5 +35,5 @@ python3 ../compressimages.py
 - The file names of all compressed images would be in the format ```<original_file_name>-min.jpg```.
 
 ## Note
-It would preferable to keep only the image files in the chosen directory and nothing else.
+It would be preferable to keep only JPG image files in the chosen directory and nothing else.
 This project is still under development.
